@@ -1,0 +1,38 @@
+-- We wish you a merry christmas
+
+setcps 2
+
+resetCycles
+
+d1 $ cat [  n "d", 
+            n "g",
+            n "g a6",
+            n "g fs",
+            n "e",
+            n "e",
+            n "e",
+            n "a6",
+            n "a6 b6",
+            n "a6 g",
+            n "fs",
+            n "d",
+            n "d",
+            n "b6",
+            n "b6 c6",
+            n "b6 a6",
+            n "g",
+            n "e",
+            n "d d",
+            n "e",
+            n "a6",
+            n "fs",
+            n "g _",
+            n "d",
+            n "g",
+            n "g",
+            n "g",
+            n "fs _",
+            n "fs"
+        ]  # s "superpiano"
+
+d1 silence
