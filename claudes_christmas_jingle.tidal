@@ -29,7 +29,7 @@ d2 $ cat [
         n "a3",
         n "g3",
         n "c4",
-        n  "c4"
+        n "c4"
         ]  # s "superpiano"
 
 d1 silence
